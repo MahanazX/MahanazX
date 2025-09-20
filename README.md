@@ -44,10 +44,7 @@ To leverage 5+ years of experience in manual and automation testing with strong 
 - **Microsoft-Young Bangla Internship** - Team "Unicorn" is one of the finalists of the Startup Business proposal Competition
 
 ## Projects
-- [Cypress E2E Web Automation Suite](https://github.com/MahanazX/cypress-e2e-demo)  
-- [Playwright Cross-Browser Automation Framework](https://github.com/MahanazX/playwright-cross-browser)  
-- [API Automation with Jest and Bruno](https://github.com/MahanazX/jest-api-automation)  
-*(Note: Add links as you create repos—leave placeholders for now.)*
+coming.....
 
 ## Contact
 - Email: [tabassum.mhnz@gmail.com](mailto:tabassum.mhnz@gmail.com)
